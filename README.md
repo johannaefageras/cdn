@@ -1,4 +1,4 @@
-# cdn
+# CDN
 
 A personal static asset CDN served over [jsDelivr](https://www.jsdelivr.com/), straight from this GitHub repo. Currently hosts self-hosted web fonts.
 
