@@ -1,0 +1,160 @@
+@font-face {
+    font-family: 'MD Nichrome';
+    src: url('fonts/MDNichrome-Infra.woff2') format('woff2'),
+        url('fonts/MDNichrome-Infra.woff') format('woff'),
+        url('fonts/MDNichrome-Infra.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Nichrome';
+    src: url('fonts/MDNichrome-InfraOblique.woff2') format('woff2'),
+        url('fonts/MDNichrome-InfraOblique.woff') format('woff'),
+        url('fonts/MDNichrome-InfraOblique.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Nichrome';
+    src: url('fonts/MDNichrome-Thin.woff2') format('woff2'),
+        url('fonts/MDNichrome-Thin.woff') format('woff'),
+        url('fonts/MDNichrome-Thin.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Nichrome';
+    src: url('fonts/MDNichrome-ThinOblique.woff2') format('woff2'),
+        url('fonts/MDNichrome-ThinOblique.woff') format('woff'),
+        url('fonts/MDNichrome-ThinOblique.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Nichrome';
+    src: url('fonts/MDNichrome-Light.woff2') format('woff2'),
+        url('fonts/MDNichrome-Light.woff') format('woff'),
+        url('fonts/MDNichrome-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Nichrome';
+    src: url('fonts/MDNichrome-LightOblique.woff2') format('woff2'),
+        url('fonts/MDNichrome-LightOblique.woff') format('woff'),
+        url('fonts/MDNichrome-LightOblique.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Nichrome';
+    src: url('fonts/MDNichrome-Regular.woff2') format('woff2'),
+        url('fonts/MDNichrome-Regular.woff') format('woff'),
+        url('fonts/MDNichrome-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Nichrome';
+    src: url('fonts/MDNichrome-RegularOblique.woff2') format('woff2'),
+        url('fonts/MDNichrome-RegularOblique.woff') format('woff'),
+        url('fonts/MDNichrome-RegularOblique.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Nichrome';
+    src: url('fonts/MDNichrome-Dark.woff2') format('woff2'),
+        url('fonts/MDNichrome-Dark.woff') format('woff'),
+        url('fonts/MDNichrome-Dark.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Nichrome';
+    src: url('fonts/MDNichrome-DarkOblique.woff2') format('woff2'),
+        url('fonts/MDNichrome-DarkOblique.woff') format('woff'),
+        url('fonts/MDNichrome-DarkOblique.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Nichrome';
+    src: url('fonts/MDNichrome-Bold.woff2') format('woff2'),
+        url('fonts/MDNichrome-Bold.woff') format('woff'),
+        url('fonts/MDNichrome-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Nichrome';
+    src: url('fonts/MDNichrome-BoldOblique.woff2') format('woff2'),
+        url('fonts/MDNichrome-BoldOblique.woff') format('woff'),
+        url('fonts/MDNichrome-BoldOblique.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Nichrome';
+    src: url('fonts/MDNichrome-Black.woff2') format('woff2'),
+        url('fonts/MDNichrome-Black.woff') format('woff'),
+        url('fonts/MDNichrome-Black.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Nichrome';
+    src: url('fonts/MDNichrome-BlackOblique.woff2') format('woff2'),
+        url('fonts/MDNichrome-BlackOblique.woff') format('woff'),
+        url('fonts/MDNichrome-BlackOblique.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Nichrome';
+    src: url('fonts/MDNichrome-Ultra.woff2') format('woff2'),
+        url('fonts/MDNichrome-Ultra.woff') format('woff'),
+        url('fonts/MDNichrome-Ultra.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Nichrome';
+    src: url('fonts/MDNichrome-UltraOblique.woff2') format('woff2'),
+        url('fonts/MDNichrome-UltraOblique.woff') format('woff'),
+        url('fonts/MDNichrome-UltraOblique.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+

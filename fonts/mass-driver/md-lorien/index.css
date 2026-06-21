@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'MD Lorien';
+    src: url('fonts/MDLorien-Regular.woff2') format('woff2'),
+        url('fonts/MDLorien-Regular.woff') format('woff'),
+        url('fonts/MDLorien-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Lorien';
+    src: url('fonts/MDLorien-Italic.woff2') format('woff2'),
+        url('fonts/MDLorien-Italic.woff') format('woff'),
+        url('fonts/MDLorien-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Lorien';
+    src: url('fonts/MDLorien-Book.woff2') format('woff2'),
+        url('fonts/MDLorien-Book.woff') format('woff'),
+        url('fonts/MDLorien-Book.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Lorien';
+    src: url('fonts/MDLorien-BookItalic.woff2') format('woff2'),
+        url('fonts/MDLorien-BookItalic.woff') format('woff'),
+        url('fonts/MDLorien-BookItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Lorien';
+    src: url('fonts/MDLorien-Semibold.woff2') format('woff2'),
+        url('fonts/MDLorien-Semibold.woff') format('woff'),
+        url('fonts/MDLorien-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Lorien';
+    src: url('fonts/MDLorien-SemiboldItalic.woff2') format('woff2'),
+        url('fonts/MDLorien-SemiboldItalic.woff') format('woff'),
+        url('fonts/MDLorien-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Lorien';
+    src: url('fonts/MDLorien-Bold.woff2') format('woff2'),
+        url('fonts/MDLorien-Bold.woff') format('woff'),
+        url('fonts/MDLorien-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Lorien';
+    src: url('fonts/MDLorien-BoldItalic.woff2') format('woff2'),
+        url('fonts/MDLorien-BoldItalic.woff') format('woff'),
+        url('fonts/MDLorien-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Lorien';
+    src: url('fonts/MDLorien-Black.woff2') format('woff2'),
+        url('fonts/MDLorien-Black.woff') format('woff'),
+        url('fonts/MDLorien-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Lorien';
+    src: url('fonts/MDLorien-BlackItalic.woff2') format('woff2'),
+        url('fonts/MDLorien-BlackItalic.woff') format('woff'),
+        url('fonts/MDLorien-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+

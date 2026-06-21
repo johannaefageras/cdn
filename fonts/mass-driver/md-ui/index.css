@@ -1,0 +1,160 @@
+@font-face {
+    font-family: 'MD UI';
+    src: url('fonts/MDUI-Thin.woff2') format('woff2'),
+        url('fonts/MDUI-Thin.woff') format('woff'),
+        url('fonts/MDUI-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD UI';
+    src: url('fonts/MDUI-ThinItalic.woff2') format('woff2'),
+        url('fonts/MDUI-ThinItalic.woff') format('woff'),
+        url('fonts/MDUI-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD UI';
+    src: url('fonts/MDUI-Light.woff2') format('woff2'),
+        url('fonts/MDUI-Light.woff') format('woff'),
+        url('fonts/MDUI-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD UI';
+    src: url('fonts/MDUI-LightItalic.woff2') format('woff2'),
+        url('fonts/MDUI-LightItalic.woff') format('woff'),
+        url('fonts/MDUI-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD UI';
+    src: url('fonts/MDUI-Regular.woff2') format('woff2'),
+        url('fonts/MDUI-Regular.woff') format('woff'),
+        url('fonts/MDUI-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD UI';
+    src: url('fonts/MDUI-Italic.woff2') format('woff2'),
+        url('fonts/MDUI-Italic.woff') format('woff'),
+        url('fonts/MDUI-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD UI';
+    src: url('fonts/MDUI-Medium.woff2') format('woff2'),
+        url('fonts/MDUI-Medium.woff') format('woff'),
+        url('fonts/MDUI-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD UI';
+    src: url('fonts/MDUI-MediumItalic.woff2') format('woff2'),
+        url('fonts/MDUI-MediumItalic.woff') format('woff'),
+        url('fonts/MDUI-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD UI';
+    src: url('fonts/MDUI-Semibold.woff2') format('woff2'),
+        url('fonts/MDUI-Semibold.woff') format('woff'),
+        url('fonts/MDUI-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD UI';
+    src: url('fonts/MDUI-SemiboldItalic.woff2') format('woff2'),
+        url('fonts/MDUI-SemiboldItalic.woff') format('woff'),
+        url('fonts/MDUI-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD UI';
+    src: url('fonts/MDUI-Bold.woff2') format('woff2'),
+        url('fonts/MDUI-Bold.woff') format('woff'),
+        url('fonts/MDUI-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD UI';
+    src: url('fonts/MDUI-BoldItalic.woff2') format('woff2'),
+        url('fonts/MDUI-BoldItalic.woff') format('woff'),
+        url('fonts/MDUI-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD UI';
+    src: url('fonts/MDUI-Black.woff2') format('woff2'),
+        url('fonts/MDUI-Black.woff') format('woff'),
+        url('fonts/MDUI-Black.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD UI';
+    src: url('fonts/MDUI-BlackItalic.woff2') format('woff2'),
+        url('fonts/MDUI-BlackItalic.woff') format('woff'),
+        url('fonts/MDUI-BlackItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD UI';
+    src: url('fonts/MDUI-Ultra.woff2') format('woff2'),
+        url('fonts/MDUI-Ultra.woff') format('woff'),
+        url('fonts/MDUI-Ultra.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD UI';
+    src: url('fonts/MDUI-UltraItalic.woff2') format('woff2'),
+        url('fonts/MDUI-UltraItalic.woff') format('woff'),
+        url('fonts/MDUI-UltraItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+

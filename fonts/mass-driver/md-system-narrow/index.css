@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'MD System Narrow';
+    src: url('fonts/MDSystemNarrow-Regular.woff2') format('woff2'),
+        url('fonts/MDSystemNarrow-Regular.woff') format('woff'),
+        url('fonts/MDSystemNarrow-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System Narrow';
+    src: url('fonts/MDSystemNarrow-Italic.woff2') format('woff2'),
+        url('fonts/MDSystemNarrow-Italic.woff') format('woff'),
+        url('fonts/MDSystemNarrow-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System Narrow';
+    src: url('fonts/MDSystemNarrow-Medium.woff2') format('woff2'),
+        url('fonts/MDSystemNarrow-Medium.woff') format('woff'),
+        url('fonts/MDSystemNarrow-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System Narrow';
+    src: url('fonts/MDSystemNarrow-MediumItalic.woff2') format('woff2'),
+        url('fonts/MDSystemNarrow-MediumItalic.woff') format('woff'),
+        url('fonts/MDSystemNarrow-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System Narrow';
+    src: url('fonts/MDSystemNarrow-Semibold.woff2') format('woff2'),
+        url('fonts/MDSystemNarrow-Semibold.woff') format('woff'),
+        url('fonts/MDSystemNarrow-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System Narrow';
+    src: url('fonts/MDSystemNarrow-SemiboldItalic.woff2') format('woff2'),
+        url('fonts/MDSystemNarrow-SemiboldItalic.woff') format('woff'),
+        url('fonts/MDSystemNarrow-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System Narrow';
+    src: url('fonts/MDSystemNarrow-Bold.woff2') format('woff2'),
+        url('fonts/MDSystemNarrow-Bold.woff') format('woff'),
+        url('fonts/MDSystemNarrow-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System Narrow';
+    src: url('fonts/MDSystemNarrow-BoldItalic.woff2') format('woff2'),
+        url('fonts/MDSystemNarrow-BoldItalic.woff') format('woff'),
+        url('fonts/MDSystemNarrow-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System Narrow';
+    src: url('fonts/MDSystemNarrow-Black.woff2') format('woff2'),
+        url('fonts/MDSystemNarrow-Black.woff') format('woff'),
+        url('fonts/MDSystemNarrow-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System Narrow';
+    src: url('fonts/MDSystemNarrow-BlackItalic.woff2') format('woff2'),
+        url('fonts/MDSystemNarrow-BlackItalic.woff') format('woff'),
+        url('fonts/MDSystemNarrow-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+

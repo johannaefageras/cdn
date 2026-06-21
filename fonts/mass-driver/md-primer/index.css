@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'MD Primer';
+    src: url('fonts/MDPrimer-Light.woff2') format('woff2'),
+        url('fonts/MDPrimer-Light.woff') format('woff'),
+        url('fonts/MDPrimer-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Primer';
+    src: url('fonts/MDPrimer-LightItalic.woff2') format('woff2'),
+        url('fonts/MDPrimer-LightItalic.woff') format('woff'),
+        url('fonts/MDPrimer-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Primer';
+    src: url('fonts/MDPrimer-Regular.woff2') format('woff2'),
+        url('fonts/MDPrimer-Regular.woff') format('woff'),
+        url('fonts/MDPrimer-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Primer';
+    src: url('fonts/MDPrimer-Italic.woff2') format('woff2'),
+        url('fonts/MDPrimer-Italic.woff') format('woff'),
+        url('fonts/MDPrimer-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Primer';
+    src: url('fonts/MDPrimer-Medium.woff2') format('woff2'),
+        url('fonts/MDPrimer-Medium.woff') format('woff'),
+        url('fonts/MDPrimer-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Primer';
+    src: url('fonts/MDPrimer-MediumItalic.woff2') format('woff2'),
+        url('fonts/MDPrimer-MediumItalic.woff') format('woff'),
+        url('fonts/MDPrimer-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Primer';
+    src: url('fonts/MDPrimer-Semibold.woff2') format('woff2'),
+        url('fonts/MDPrimer-Semibold.woff') format('woff'),
+        url('fonts/MDPrimer-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Primer';
+    src: url('fonts/MDPrimer-SemiboldItalic.woff2') format('woff2'),
+        url('fonts/MDPrimer-SemiboldItalic.woff') format('woff'),
+        url('fonts/MDPrimer-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Primer';
+    src: url('fonts/MDPrimer-Bold.woff2') format('woff2'),
+        url('fonts/MDPrimer-Bold.woff') format('woff'),
+        url('fonts/MDPrimer-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Primer';
+    src: url('fonts/MDPrimer-BoldItalic.woff2') format('woff2'),
+        url('fonts/MDPrimer-BoldItalic.woff') format('woff'),
+        url('fonts/MDPrimer-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Primer';
+    src: url('fonts/MDPrimer-Black.woff2') format('woff2'),
+        url('fonts/MDPrimer-Black.woff') format('woff'),
+        url('fonts/MDPrimer-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD Primer';
+    src: url('fonts/MDPrimer-BlackItalic.woff2') format('woff2'),
+        url('fonts/MDPrimer-BlackItalic.woff') format('woff'),
+        url('fonts/MDPrimer-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+

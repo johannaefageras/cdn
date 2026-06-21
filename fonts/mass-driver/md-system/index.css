@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'MD System';
+    src: url('fonts/MDSystem-Regular.woff2') format('woff2'),
+        url('fonts/MDSystem-Regular.woff') format('woff'),
+        url('fonts/MDSystem-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System';
+    src: url('fonts/MDSystem-Italic.woff2') format('woff2'),
+        url('fonts/MDSystem-Italic.woff') format('woff'),
+        url('fonts/MDSystem-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System';
+    src: url('fonts/MDSystem-Medium.woff2') format('woff2'),
+        url('fonts/MDSystem-Medium.woff') format('woff'),
+        url('fonts/MDSystem-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System';
+    src: url('fonts/MDSystem-MediumItalic.woff2') format('woff2'),
+        url('fonts/MDSystem-MediumItalic.woff') format('woff'),
+        url('fonts/MDSystem-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System';
+    src: url('fonts/MDSystem-Semibold.woff2') format('woff2'),
+        url('fonts/MDSystem-Semibold.woff') format('woff'),
+        url('fonts/MDSystem-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System';
+    src: url('fonts/MDSystem-SemiboldItalic.woff2') format('woff2'),
+        url('fonts/MDSystem-SemiboldItalic.woff') format('woff'),
+        url('fonts/MDSystem-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System';
+    src: url('fonts/MDSystem-Bold.woff2') format('woff2'),
+        url('fonts/MDSystem-Bold.woff') format('woff'),
+        url('fonts/MDSystem-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System';
+    src: url('fonts/MDSystem-BoldItalic.woff2') format('woff2'),
+        url('fonts/MDSystem-BoldItalic.woff') format('woff'),
+        url('fonts/MDSystem-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System';
+    src: url('fonts/MDSystem-Black.woff2') format('woff2'),
+        url('fonts/MDSystem-Black.woff') format('woff'),
+        url('fonts/MDSystem-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD System';
+    src: url('fonts/MDSystem-BlackItalic.woff2') format('woff2'),
+        url('fonts/MDSystem-BlackItalic.woff') format('woff'),
+        url('fonts/MDSystem-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
