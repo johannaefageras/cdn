@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'Ogg';
+    src: url('fonts/Ogg-Thin.woff2') format('woff2'),
+        url('fonts/Ogg-Thin.woff') format('woff'),
+        url('fonts/Ogg-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ogg';
+    src: url('fonts/Ogg-ThinItalic.woff2') format('woff2'),
+        url('fonts/Ogg-ThinItalic.woff') format('woff'),
+        url('fonts/Ogg-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ogg';
+    src: url('fonts/Ogg-Light.woff2') format('woff2'),
+        url('fonts/Ogg-Light.woff') format('woff'),
+        url('fonts/Ogg-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ogg';
+    src: url('fonts/Ogg-LightItalic.woff2') format('woff2'),
+        url('fonts/Ogg-LightItalic.woff') format('woff'),
+        url('fonts/Ogg-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ogg';
+    src: url('fonts/Ogg-Book.woff2') format('woff2'),
+        url('fonts/Ogg-Book.woff') format('woff'),
+        url('fonts/Ogg-Book.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ogg';
+    src: url('fonts/Ogg-BookItalic.woff2') format('woff2'),
+        url('fonts/Ogg-BookItalic.woff') format('woff'),
+        url('fonts/Ogg-BookItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ogg';
+    src: url('fonts/Ogg-Medium.woff2') format('woff2'),
+        url('fonts/Ogg-Medium.woff') format('woff'),
+        url('fonts/Ogg-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ogg';
+    src: url('fonts/Ogg-MediumItalic.woff2') format('woff2'),
+        url('fonts/Ogg-MediumItalic.woff') format('woff'),
+        url('fonts/Ogg-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ogg';
+    src: url('fonts/Ogg-Bold.woff2') format('woff2'),
+        url('fonts/Ogg-Bold.woff') format('woff'),
+        url('fonts/Ogg-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ogg';
+    src: url('fonts/Ogg-BoldItalic.woff2') format('woff2'),
+        url('fonts/Ogg-BoldItalic.woff') format('woff'),
+        url('fonts/Ogg-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
