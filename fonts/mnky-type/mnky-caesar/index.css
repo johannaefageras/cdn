@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-Thin.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-Thin.woff') format('woff'),
+        url('fonts/MNKYCaesar-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-ThinItalic.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-ThinItalic.woff') format('woff'),
+        url('fonts/MNKYCaesar-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-ExtraLight.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-ExtraLight.woff') format('woff'),
+        url('fonts/MNKYCaesar-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-ExtraLightItalic.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-ExtraLightItalic.woff') format('woff'),
+        url('fonts/MNKYCaesar-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-Light.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-Light.woff') format('woff'),
+        url('fonts/MNKYCaesar-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-LightItalic.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-LightItalic.woff') format('woff'),
+        url('fonts/MNKYCaesar-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-Regular.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-Regular.woff') format('woff'),
+        url('fonts/MNKYCaesar-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-RegularItalic.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-RegularItalic.woff') format('woff'),
+        url('fonts/MNKYCaesar-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-Medium.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-Medium.woff') format('woff'),
+        url('fonts/MNKYCaesar-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-MediumItalic.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-MediumItalic.woff') format('woff'),
+        url('fonts/MNKYCaesar-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-SemiBold.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-SemiBold.woff') format('woff'),
+        url('fonts/MNKYCaesar-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-SemiBoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-SemiBoldItalic.woff') format('woff'),
+        url('fonts/MNKYCaesar-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-Bold.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-Bold.woff') format('woff'),
+        url('fonts/MNKYCaesar-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-BoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-BoldItalic.woff') format('woff'),
+        url('fonts/MNKYCaesar-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-ExtraBold.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-ExtraBold.woff') format('woff'),
+        url('fonts/MNKYCaesar-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-ExtraBoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-ExtraBoldItalic.woff') format('woff'),
+        url('fonts/MNKYCaesar-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-Black.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-Black.woff') format('woff'),
+        url('fonts/MNKYCaesar-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Caesar';
+    src: url('fonts/MNKYCaesar-BlackItalic.woff2') format('woff2'),
+        url('fonts/MNKYCaesar-BlackItalic.woff') format('woff'),
+        url('fonts/MNKYCaesar-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+

@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-Thin.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-Thin.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-ThinItalic.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-ThinItalic.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-ExtraLight.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-ExtraLight.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-ExtLtIta.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-ExtLtIta.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-ExtLtIta.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-Light.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-Light.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-LightItalic.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-LightItalic.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-Regular.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-Regular.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-RegIta.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-RegIta.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-RegIta.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-Medium.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-Medium.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-MedIta.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-MedIta.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-MedIta.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-SemiBold.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-SemiBold.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-SemBdIta.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-SemBdIta.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-SemBdIta.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-Bold.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-Bold.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-BoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-BoldItalic.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-ExtraBold.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-ExtraBold.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-ExtBdIta.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-ExtBdIta.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-ExtBdIta.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-Black.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-Black.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane Condensed';
+    src: url('fonts/MNKYJaneCondensed-BlackItalic.woff2') format('woff2'),
+        url('fonts/MNKYJaneCondensed-BlackItalic.woff') format('woff'),
+        url('fonts/MNKYJaneCondensed-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+

@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-Thin.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-Thin.woff') format('woff'),
+        url('fonts/MNKYGeorge-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-ThinItalic.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-ThinItalic.woff') format('woff'),
+        url('fonts/MNKYGeorge-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-ExtraLight.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-ExtraLight.woff') format('woff'),
+        url('fonts/MNKYGeorge-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-ExtraLightItalic.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-ExtraLightItalic.woff') format('woff'),
+        url('fonts/MNKYGeorge-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-Light.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-Light.woff') format('woff'),
+        url('fonts/MNKYGeorge-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-LightItalic.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-LightItalic.woff') format('woff'),
+        url('fonts/MNKYGeorge-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-Regular.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-Regular.woff') format('woff'),
+        url('fonts/MNKYGeorge-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-RegularItalic.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-RegularItalic.woff') format('woff'),
+        url('fonts/MNKYGeorge-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-Medium.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-Medium.woff') format('woff'),
+        url('fonts/MNKYGeorge-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-MediumItalic.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-MediumItalic.woff') format('woff'),
+        url('fonts/MNKYGeorge-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-SemiBold.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-SemiBold.woff') format('woff'),
+        url('fonts/MNKYGeorge-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-SemiBoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-SemiBoldItalic.woff') format('woff'),
+        url('fonts/MNKYGeorge-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-Bold.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-Bold.woff') format('woff'),
+        url('fonts/MNKYGeorge-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-BoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-BoldItalic.woff') format('woff'),
+        url('fonts/MNKYGeorge-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-ExtraBold.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-ExtraBold.woff') format('woff'),
+        url('fonts/MNKYGeorge-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-ExtraBoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-ExtraBoldItalic.woff') format('woff'),
+        url('fonts/MNKYGeorge-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-Black.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-Black.woff') format('woff'),
+        url('fonts/MNKYGeorge-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY George';
+    src: url('fonts/MNKYGeorge-BlackItalic.woff2') format('woff2'),
+        url('fonts/MNKYGeorge-BlackItalic.woff') format('woff'),
+        url('fonts/MNKYGeorge-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+

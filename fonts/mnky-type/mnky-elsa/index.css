@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'MNKY Elsa';
+    src: url('fonts/MNKYElsa-Regular.woff2') format('woff2'),
+        url('fonts/MNKYElsa-Regular.woff') format('woff'),
+        url('fonts/MNKYElsa-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Elsa';
+    src: url('fonts/MNKYElsa-RegularItalic.woff2') format('woff2'),
+        url('fonts/MNKYElsa-RegularItalic.woff') format('woff'),
+        url('fonts/MNKYElsa-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Elsa';
+    src: url('fonts/MNKYElsa-Medium.woff2') format('woff2'),
+        url('fonts/MNKYElsa-Medium.woff') format('woff'),
+        url('fonts/MNKYElsa-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Elsa';
+    src: url('fonts/MNKYElsa-MediumItalic.woff2') format('woff2'),
+        url('fonts/MNKYElsa-MediumItalic.woff') format('woff'),
+        url('fonts/MNKYElsa-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Elsa';
+    src: url('fonts/MNKYElsa-SemiBold.woff2') format('woff2'),
+        url('fonts/MNKYElsa-SemiBold.woff') format('woff'),
+        url('fonts/MNKYElsa-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Elsa';
+    src: url('fonts/MNKYElsa-SemiBoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYElsa-SemiBoldItalic.woff') format('woff'),
+        url('fonts/MNKYElsa-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Elsa';
+    src: url('fonts/MNKYElsa-Bold.woff2') format('woff2'),
+        url('fonts/MNKYElsa-Bold.woff') format('woff'),
+        url('fonts/MNKYElsa-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Elsa';
+    src: url('fonts/MNKYElsa-BoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYElsa-BoldItalic.woff') format('woff'),
+        url('fonts/MNKYElsa-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+

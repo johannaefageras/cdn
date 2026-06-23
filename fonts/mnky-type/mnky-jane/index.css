@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-Thin.woff2') format('woff2'),
+        url('fonts/MNKYJane-Thin.woff') format('woff'),
+        url('fonts/MNKYJane-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-ThinItalic.woff2') format('woff2'),
+        url('fonts/MNKYJane-ThinItalic.woff') format('woff'),
+        url('fonts/MNKYJane-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-ExtraLight.woff2') format('woff2'),
+        url('fonts/MNKYJane-ExtraLight.woff') format('woff'),
+        url('fonts/MNKYJane-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-ExtraLightItalic.woff2') format('woff2'),
+        url('fonts/MNKYJane-ExtraLightItalic.woff') format('woff'),
+        url('fonts/MNKYJane-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-Light.woff2') format('woff2'),
+        url('fonts/MNKYJane-Light.woff') format('woff'),
+        url('fonts/MNKYJane-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-LightItalic.woff2') format('woff2'),
+        url('fonts/MNKYJane-LightItalic.woff') format('woff'),
+        url('fonts/MNKYJane-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-Regular.woff2') format('woff2'),
+        url('fonts/MNKYJane-Regular.woff') format('woff'),
+        url('fonts/MNKYJane-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-RegularItalic.woff2') format('woff2'),
+        url('fonts/MNKYJane-RegularItalic.woff') format('woff'),
+        url('fonts/MNKYJane-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-Medium.woff2') format('woff2'),
+        url('fonts/MNKYJane-Medium.woff') format('woff'),
+        url('fonts/MNKYJane-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-MediumItalic.woff2') format('woff2'),
+        url('fonts/MNKYJane-MediumItalic.woff') format('woff'),
+        url('fonts/MNKYJane-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-SemiBold.woff2') format('woff2'),
+        url('fonts/MNKYJane-SemiBold.woff') format('woff'),
+        url('fonts/MNKYJane-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-SemiBoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYJane-SemiBoldItalic.woff') format('woff'),
+        url('fonts/MNKYJane-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-Bold.woff2') format('woff2'),
+        url('fonts/MNKYJane-Bold.woff') format('woff'),
+        url('fonts/MNKYJane-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-BoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYJane-BoldItalic.woff') format('woff'),
+        url('fonts/MNKYJane-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-ExtraBold.woff2') format('woff2'),
+        url('fonts/MNKYJane-ExtraBold.woff') format('woff'),
+        url('fonts/MNKYJane-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-ExtraBoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYJane-ExtraBoldItalic.woff') format('woff'),
+        url('fonts/MNKYJane-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-Black.woff2') format('woff2'),
+        url('fonts/MNKYJane-Black.woff') format('woff'),
+        url('fonts/MNKYJane-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Jane';
+    src: url('fonts/MNKYJane-BlackItalic.woff2') format('woff2'),
+        url('fonts/MNKYJane-BlackItalic.woff') format('woff'),
+        url('fonts/MNKYJane-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+

@@ -1,0 +1,160 @@
+@font-face {
+    font-family: 'MNKY Marcel';
+    src: url('fonts/MNKYMarcel-ExtraLight.woff2') format('woff2'),
+        url('fonts/MNKYMarcel-ExtraLight.woff') format('woff'),
+        url('fonts/MNKYMarcel-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Marcel';
+    src: url('fonts/MNKYMarcel-ExtraLightItalic.woff2') format('woff2'),
+        url('fonts/MNKYMarcel-ExtraLightItalic.woff') format('woff'),
+        url('fonts/MNKYMarcel-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Marcel';
+    src: url('fonts/MNKYMarcel-Light.woff2') format('woff2'),
+        url('fonts/MNKYMarcel-Light.woff') format('woff'),
+        url('fonts/MNKYMarcel-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Marcel';
+    src: url('fonts/MNKYMarcel-LightItalic.woff2') format('woff2'),
+        url('fonts/MNKYMarcel-LightItalic.woff') format('woff'),
+        url('fonts/MNKYMarcel-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Marcel';
+    src: url('fonts/MNKYMarcel-Regular.woff2') format('woff2'),
+        url('fonts/MNKYMarcel-Regular.woff') format('woff'),
+        url('fonts/MNKYMarcel-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Marcel';
+    src: url('fonts/MNKYMarcel-RegularItalic.woff2') format('woff2'),
+        url('fonts/MNKYMarcel-RegularItalic.woff') format('woff'),
+        url('fonts/MNKYMarcel-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Marcel';
+    src: url('fonts/MNKYMarcel-Medium.woff2') format('woff2'),
+        url('fonts/MNKYMarcel-Medium.woff') format('woff'),
+        url('fonts/MNKYMarcel-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Marcel';
+    src: url('fonts/MNKYMarcel-MediumItalic.woff2') format('woff2'),
+        url('fonts/MNKYMarcel-MediumItalic.woff') format('woff'),
+        url('fonts/MNKYMarcel-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Marcel';
+    src: url('fonts/MNKYMarcel-SemiBold.woff2') format('woff2'),
+        url('fonts/MNKYMarcel-SemiBold.woff') format('woff'),
+        url('fonts/MNKYMarcel-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Marcel';
+    src: url('fonts/MNKYMarcel-SemiBoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYMarcel-SemiBoldItalic.woff') format('woff'),
+        url('fonts/MNKYMarcel-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Marcel';
+    src: url('fonts/MNKYMarcel-Bold.woff2') format('woff2'),
+        url('fonts/MNKYMarcel-Bold.woff') format('woff'),
+        url('fonts/MNKYMarcel-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Marcel';
+    src: url('fonts/MNKYMarcel-BoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYMarcel-BoldItalic.woff') format('woff'),
+        url('fonts/MNKYMarcel-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Marcel';
+    src: url('fonts/MNKYMarcel-ExtraBold.woff2') format('woff2'),
+        url('fonts/MNKYMarcel-ExtraBold.woff') format('woff'),
+        url('fonts/MNKYMarcel-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Marcel';
+    src: url('fonts/MNKYMarcel-ExtraBoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYMarcel-ExtraBoldItalic.woff') format('woff'),
+        url('fonts/MNKYMarcel-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Marcel';
+    src: url('fonts/MNKYMarcel-Black.woff2') format('woff2'),
+        url('fonts/MNKYMarcel-Black.woff') format('woff'),
+        url('fonts/MNKYMarcel-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Marcel';
+    src: url('fonts/MNKYMarcel-BlackItalic.woff2') format('woff2'),
+        url('fonts/MNKYMarcel-BlackItalic.woff') format('woff'),
+        url('fonts/MNKYMarcel-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+

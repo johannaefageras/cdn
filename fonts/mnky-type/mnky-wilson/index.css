@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-Thin.woff2') format('woff2'),
+        url('fonts/MNKYWilson-Thin.woff') format('woff'),
+        url('fonts/MNKYWilson-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-ThinItalic.woff2') format('woff2'),
+        url('fonts/MNKYWilson-ThinItalic.woff') format('woff'),
+        url('fonts/MNKYWilson-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-ExtraLight.woff2') format('woff2'),
+        url('fonts/MNKYWilson-ExtraLight.woff') format('woff'),
+        url('fonts/MNKYWilson-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-ExtraLightItalic.woff2') format('woff2'),
+        url('fonts/MNKYWilson-ExtraLightItalic.woff') format('woff'),
+        url('fonts/MNKYWilson-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-Light.woff2') format('woff2'),
+        url('fonts/MNKYWilson-Light.woff') format('woff'),
+        url('fonts/MNKYWilson-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-LightItalic.woff2') format('woff2'),
+        url('fonts/MNKYWilson-LightItalic.woff') format('woff'),
+        url('fonts/MNKYWilson-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-Regular.woff2') format('woff2'),
+        url('fonts/MNKYWilson-Regular.woff') format('woff'),
+        url('fonts/MNKYWilson-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-RegularItalic.woff2') format('woff2'),
+        url('fonts/MNKYWilson-RegularItalic.woff') format('woff'),
+        url('fonts/MNKYWilson-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-Medium.woff2') format('woff2'),
+        url('fonts/MNKYWilson-Medium.woff') format('woff'),
+        url('fonts/MNKYWilson-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-MediumItalic.woff2') format('woff2'),
+        url('fonts/MNKYWilson-MediumItalic.woff') format('woff'),
+        url('fonts/MNKYWilson-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-SemiBold.woff2') format('woff2'),
+        url('fonts/MNKYWilson-SemiBold.woff') format('woff'),
+        url('fonts/MNKYWilson-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-SemiBoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYWilson-SemiBoldItalic.woff') format('woff'),
+        url('fonts/MNKYWilson-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-Bold.woff2') format('woff2'),
+        url('fonts/MNKYWilson-Bold.woff') format('woff'),
+        url('fonts/MNKYWilson-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-BoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYWilson-BoldItalic.woff') format('woff'),
+        url('fonts/MNKYWilson-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-ExtraBold.woff2') format('woff2'),
+        url('fonts/MNKYWilson-ExtraBold.woff') format('woff'),
+        url('fonts/MNKYWilson-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-ExtraBoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYWilson-ExtraBoldItalic.woff') format('woff'),
+        url('fonts/MNKYWilson-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-Black.woff2') format('woff2'),
+        url('fonts/MNKYWilson-Black.woff') format('woff'),
+        url('fonts/MNKYWilson-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Wilson';
+    src: url('fonts/MNKYWilson-BlackItalic.woff2') format('woff2'),
+        url('fonts/MNKYWilson-BlackItalic.woff') format('woff'),
+        url('fonts/MNKYWilson-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+

@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'MNKY Koko';
+    src: url('fonts/MNKYKoko-Light.woff2') format('woff2'),
+        url('fonts/MNKYKoko-Light.woff') format('woff'),
+        url('fonts/MNKYKoko-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Koko';
+    src: url('fonts/MNKYKoko-LightItalic.woff2') format('woff2'),
+        url('fonts/MNKYKoko-LightItalic.woff') format('woff'),
+        url('fonts/MNKYKoko-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Koko';
+    src: url('fonts/MNKYKoko-Regular.woff2') format('woff2'),
+        url('fonts/MNKYKoko-Regular.woff') format('woff'),
+        url('fonts/MNKYKoko-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Koko';
+    src: url('fonts/MNKYKoko-RegularItalic.woff2') format('woff2'),
+        url('fonts/MNKYKoko-RegularItalic.woff') format('woff'),
+        url('fonts/MNKYKoko-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Koko';
+    src: url('fonts/MNKYKoko-Medium.woff2') format('woff2'),
+        url('fonts/MNKYKoko-Medium.woff') format('woff'),
+        url('fonts/MNKYKoko-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Koko';
+    src: url('fonts/MNKYKoko-MediumItalic.woff2') format('woff2'),
+        url('fonts/MNKYKoko-MediumItalic.woff') format('woff'),
+        url('fonts/MNKYKoko-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Koko';
+    src: url('fonts/MNKYKoko-SemiBold.woff2') format('woff2'),
+        url('fonts/MNKYKoko-SemiBold.woff') format('woff'),
+        url('fonts/MNKYKoko-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Koko';
+    src: url('fonts/MNKYKoko-SemiBoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYKoko-SemiBoldItalic.woff') format('woff'),
+        url('fonts/MNKYKoko-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Koko';
+    src: url('fonts/MNKYKoko-Bold.woff2') format('woff2'),
+        url('fonts/MNKYKoko-Bold.woff') format('woff'),
+        url('fonts/MNKYKoko-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Koko';
+    src: url('fonts/MNKYKoko-BoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYKoko-BoldItalic.woff') format('woff'),
+        url('fonts/MNKYKoko-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+

@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'MNKY Louie';
+    src: url('fonts/MNKYLouie-Regular.woff2') format('woff2'),
+        url('fonts/MNKYLouie-Regular.woff') format('woff'),
+        url('fonts/MNKYLouie-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Louie';
+    src: url('fonts/MNKYLouie-RegularItalic.woff2') format('woff2'),
+        url('fonts/MNKYLouie-RegularItalic.woff') format('woff'),
+        url('fonts/MNKYLouie-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+

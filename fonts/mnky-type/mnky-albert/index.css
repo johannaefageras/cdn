@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-Thin.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-Thin.woff') format('woff'),
+        url('fonts/MNKYAlbert-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-ThinItalic.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-ThinItalic.woff') format('woff'),
+        url('fonts/MNKYAlbert-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-ExtraLight.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-ExtraLight.woff') format('woff'),
+        url('fonts/MNKYAlbert-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-ExtraLightItalic.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-ExtraLightItalic.woff') format('woff'),
+        url('fonts/MNKYAlbert-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-Light.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-Light.woff') format('woff'),
+        url('fonts/MNKYAlbert-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-LightItalic.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-LightItalic.woff') format('woff'),
+        url('fonts/MNKYAlbert-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-Regular.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-Regular.woff') format('woff'),
+        url('fonts/MNKYAlbert-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-RegularItalic.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-RegularItalic.woff') format('woff'),
+        url('fonts/MNKYAlbert-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-Medium.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-Medium.woff') format('woff'),
+        url('fonts/MNKYAlbert-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-MediumItalic.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-MediumItalic.woff') format('woff'),
+        url('fonts/MNKYAlbert-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-SemiBold.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-SemiBold.woff') format('woff'),
+        url('fonts/MNKYAlbert-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-SemiBoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-SemiBoldItalic.woff') format('woff'),
+        url('fonts/MNKYAlbert-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-Bold.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-Bold.woff') format('woff'),
+        url('fonts/MNKYAlbert-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-BoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-BoldItalic.woff') format('woff'),
+        url('fonts/MNKYAlbert-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-ExtraBold.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-ExtraBold.woff') format('woff'),
+        url('fonts/MNKYAlbert-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-ExtraBoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-ExtraBoldItalic.woff') format('woff'),
+        url('fonts/MNKYAlbert-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-Black.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-Black.woff') format('woff'),
+        url('fonts/MNKYAlbert-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Albert';
+    src: url('fonts/MNKYAlbert-BlackItalic.woff2') format('woff2'),
+        url('fonts/MNKYAlbert-BlackItalic.woff') format('woff'),
+        url('fonts/MNKYAlbert-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+

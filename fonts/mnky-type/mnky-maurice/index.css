@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-Thin.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-Thin.woff') format('woff'),
+        url('fonts/MNKYMaurice-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-ThinItalic.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-ThinItalic.woff') format('woff'),
+        url('fonts/MNKYMaurice-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-ExtraLight.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-ExtraLight.woff') format('woff'),
+        url('fonts/MNKYMaurice-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-ExtraLightItalic.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-ExtraLightItalic.woff') format('woff'),
+        url('fonts/MNKYMaurice-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-Light.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-Light.woff') format('woff'),
+        url('fonts/MNKYMaurice-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-LightItalic.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-LightItalic.woff') format('woff'),
+        url('fonts/MNKYMaurice-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-Regular.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-Regular.woff') format('woff'),
+        url('fonts/MNKYMaurice-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-RegularItalic.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-RegularItalic.woff') format('woff'),
+        url('fonts/MNKYMaurice-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-Medium.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-Medium.woff') format('woff'),
+        url('fonts/MNKYMaurice-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-MediumItalic.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-MediumItalic.woff') format('woff'),
+        url('fonts/MNKYMaurice-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-SemiBold.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-SemiBold.woff') format('woff'),
+        url('fonts/MNKYMaurice-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-SemiBoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-SemiBoldItalic.woff') format('woff'),
+        url('fonts/MNKYMaurice-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-Bold.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-Bold.woff') format('woff'),
+        url('fonts/MNKYMaurice-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-BoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-BoldItalic.woff') format('woff'),
+        url('fonts/MNKYMaurice-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-ExtraBold.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-ExtraBold.woff') format('woff'),
+        url('fonts/MNKYMaurice-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-ExtraBoldItalic.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-ExtraBoldItalic.woff') format('woff'),
+        url('fonts/MNKYMaurice-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-Black.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-Black.woff') format('woff'),
+        url('fonts/MNKYMaurice-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Maurice';
+    src: url('fonts/MNKYMaurice-BlackItalic.woff2') format('woff2'),
+        url('fonts/MNKYMaurice-BlackItalic.woff') format('woff'),
+        url('fonts/MNKYMaurice-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
